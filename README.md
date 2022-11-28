@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Ce qui doit faire:
+## Ce que tu dois faire:
 - Aller dans le dossier lib et prendre les fichiers qui s'y trouvent. screen.dart et main.dart
 - Aller dans les fichiers pour y faire la configuration
